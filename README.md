@@ -1,3 +1,3 @@
 # About
 
-ads stands for algorithms and data structure. This is only for testing out different ideas.
+ads stands for algorithms and data structures. Testing different ideas.
