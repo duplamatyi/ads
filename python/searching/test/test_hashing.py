@@ -1,4 +1,4 @@
-from hashing import HashTable
+from python.searching.hashing import HashTable
 
 
 class TestHashTable:
